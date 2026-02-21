@@ -1,0 +1,255 @@
+{
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "roll",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/oburova2000/content/refs/heads/main/1.png",
+            "srcMobile": "https://raw.githubusercontent.com/oburova2000/content/refs/heads/main/1.png",
+            "alt": "",
+            "position": "width_full",
+            "positionMobile": "width_full",
+            "widthMobile": 1416,
+            "heightMobile": 680
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "chess",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://raw.githubusercontent.com/oburova2000/content/refs/heads/main/img2.png",
+            "srcMobile": "https://raw.githubusercontent.com/oburova2000/content/refs/heads/main/img2.png",
+            "alt": "",
+            "position": "fill",
+            "positionMobile": "to_the_edge",
+            "widthMobile": 1080,
+            "heightMobile": 1080,
+            "isParandja": true
+          },
+          "imgLink": "",
+          "title": {
+            "items": [
+              {
+                "type": "text",
+                "content": "ХАРАКТЕРИСТИКИ"
+              }
+            ],
+            "size": "size5",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size3",
+            "align": "left",
+            "color": "color1",
+            "items": [
+              {
+                "type": "text",
+                "content": "• МОНТАЖНАЯ ПЕНА TYTAN PROFESSIONAL с ультравысоким выходом до 70 литров"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Отсутствие деформаций в конструкциях"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Быстрое отверждение"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Температура применения: от +5 °C до +30 °C"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Низкое вторичное расширение: 40–60 %"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Время обработки ≤ 20 минут"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Время полной полимеризации 24 часа"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Температура баллона от +10 °С до +30 °С"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Класс огнестойкости (DIN 4102) В3"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Срок годности 18 месяцев"
+              }
+            ]
+          },
+          "reverse": false
+        },
+        {
+          "img": {
+            "src": "https://raw.githubusercontent.com/oburova2000/content/refs/heads/main/img3.png",
+            "srcMobile": "       https://raw.githubusercontent.com/oburova2000/content/refs/heads/main/img3.png",
+            "alt": "",
+            "position": "to_the_edge",
+            "positionMobile": "to_the_edge",
+            "isParandjaMobile": false,
+            "widthMobile": 1080,
+            "heightMobile": 1080
+          },
+          "imgLink": "",
+          "title": {
+            "items": [
+              {
+                "type": "text",
+                "content": "ОБЛАСТИ ПРИМЕНЕНИЯ"
+              }
+            ],
+            "size": "size5",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size3",
+            "align": "left",
+            "color": "color1",
+            "items": [
+              {
+                "type": "text",
+                "content": "• Установка окон и дверей"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Тепло- и звукоизоляция помещений"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Монтаж и изоляция проводки, коммуникаций"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Соединение и герметизация строительных конструкций"
+              }
+            ]
+          },
+          "reverse": true
+        },
+        {
+          "img": {
+            "src": "https://raw.githubusercontent.com/oburova2000/content/refs/heads/main/img4.png",
+            "srcMobile": "https://raw.githubusercontent.com/oburova2000/content/refs/heads/main/img4.png",
+            "alt": "",
+            "position": "to_the_edge",
+            "positionMobile": "to_the_edge",
+            "widthMobile": 1080,
+            "heightMobile": 1080
+          },
+          "imgLink": "",
+          "title": {
+            "items": [
+              {
+                "type": "text",
+                "content": "ХОРОШАЯ АДГЕЗИЯ"
+              }
+            ],
+            "size": "size5",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size3",
+            "align": "left",
+            "color": "color1",
+            "items": [
+              {
+                "type": "text",
+                "content": "• Кирпич"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Бетон"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Штукатурка"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Металл"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Дерево"
+              },
+              {
+                "type": "br"
+              },
+              {
+                "type": "text",
+                "content": "• Пенопласт"
+              }
+            ]
+          },
+          "reverse": false
+        }
+      ]
+    }
+  ],
+  "version": 0.3
+}
